@@ -8,3 +8,4 @@
 ishita-43/ishita-43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![ishita43's GitHub | Stats](https://stats.quine.sh/ishita43/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
