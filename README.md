@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishita-43.
 - 👀 I’m interested in learning and working on different development technologies.
-- 🌱 I’m currently learning android development .
+- 🌱 I’m currently learning Blockchain development.
 - 💞️ I’m looking to collaborate on making projects together. 
 - 📫 How to reach me Email :- thakurishita061@gmail.com
 
