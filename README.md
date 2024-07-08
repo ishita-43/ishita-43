@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishita-43.
 - 👀 I’m interested in exploring and learning things from all kind of topics. 
-- 🌱 I’m currently learning Blockchain development.
-- 💞️ I’m looking to make group projects. 
+- 🌱 I’m currently learning Blockchain development and TypeScript.
+- 💞️ I’m looking to make group projects and learn and grow together. 
 - 📫 How to reach me :- thakurishita061@gmail.com
 
 <!---
