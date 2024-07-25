@@ -1,10 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=ishita-43&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-- 👋 Hi, I’m @ishita-43.
-- 👀 I’m interested in exploring and learning things from all kind of topics. 
-- 🌱 I’m currently learning Blockchain development and TypeScript.
-- 💞️ I’m looking to make group projects and learn and grow together. 
-- 📫 How to reach me :- thakurishita061@gmail.com
-
 
 # 💫 About Me:
 🔭 I’m currently working on react-native<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with real world project <br>🌱 I’m currently learning Typescript, react-native<br>💬 Ask me about Frontend development, Ui <br>⚡ Fun fact :- Doing coding in part time
@@ -18,9 +12,6 @@ ishita-43/ishita-43 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![ishita43's GitHub | Stats](https://stats.quine.sh/ishita43/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
-
-## Tech Stack I Used
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
