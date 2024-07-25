@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=ishita-43&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m @ishita-43.
 - 👀 I’m interested in exploring and learning things from all kind of topics. 
 - 🌱 I’m currently learning Blockchain development and TypeScript.
