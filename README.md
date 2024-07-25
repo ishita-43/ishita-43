@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 [![ishita43's GitHub | Topics](https://stats.quine.sh/ishita43/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=yeblu&hide_border=true" alt="ishita-43's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=yeblu&hide_border=true" alt="ishita-43's GitHub Stats" /> <img src="https://api.githubtrends.io/user/svg/ishita-43/langs?time_range=one_year&loc_metric=changed&compact=True&theme=rosettes"/>
