@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 ## Tech Stack I Used
 
 
-<img src="https://img.shields.io/badge/-JavaScript-{#F7DF1E}?logo={JavaScript}&logoColor={#F7DF1E}&style={STYLE}" alt="badge sample"/>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 [![ishita43's GitHub | Languages Over Time](https://stats.quine.sh/ishita43/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
 
 [![ishita43's GitHub | Topics](https://stats.quine.sh/ishita43/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
