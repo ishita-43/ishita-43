@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## Tech Stack I Used
 
 
-<img src="https://img.shields.io/badge/-JavaScript-#F7DF1E?logo={ICON-NAME}&logoColor={yellow}&style={STYLE}" alt="badge sample"/>
+<img src="https://img.shields.io/badge/-JavaScript-{#F7DF1E}?logo={JavaScript}&logoColor={#F7DF1E}&style={STYLE}" alt="badge sample"/>
 
 [![ishita43's GitHub | Languages Over Time](https://stats.quine.sh/ishita43/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
 
