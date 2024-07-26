@@ -18,11 +18,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 [![ishita43's GitHub | Languages Over Time](https://stats.quine.sh/ishita43/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
 
 [![ishita43's GitHub | Topics](https://stats.quine.sh/ishita43/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=yeblu&hide_border=true" alt="ishita-43's GitHub Stats" /> <img src="https://api.githubtrends.io/user/svg/ishita-43/langs?time_range=one_year&loc_metric=changed&compact=True&theme=rosettes"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
