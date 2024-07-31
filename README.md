@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=ishita-43&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-<img align="right" width="200" height="400" src="Animation - 1722337359261.gif">
+# 💫 About Me: <img align="right" width="200" height="400" src="Animation - 1722337359261.gif">
 🔭 I’m currently working on react-native<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with real world project <br>🌱 I’m currently learning Typescript, react-native<br>💬 Ask me about Frontend development, Ui <br>⚡ Fun fact :- Doing coding in part time
 
 
@@ -31,6 +30,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ishita-43&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
