@@ -24,9 +24,16 @@ You can click the Preview link to take a look at your changes.
 [![ishita43's GitHub | Topics](https://stats.quine.sh/ishita43/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
 
 # 📊 GitHub Stats:
+<div align="center">
+
+
 ![](https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-43&theme=github_dark" alt="Ishita's GitHub Stats"/>
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ishita-43&theme=radical&no-frame=false&no-bg=false&margin-w=4)
