@@ -14,7 +14,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakurishita061) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-thakur-9688b1262) 
-<img align="right" width="250" height="250" src="1000000614-removebg-preview (1).png">
+
+<img align="right" width="200" height="250" src="1000000614-removebg-preview (1).png">
 <!---
 ishita-43/ishita-43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
