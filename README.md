@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-contributor-stats.vercel.app/api?username=ishita-43&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thakurishita061@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ishita43) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
