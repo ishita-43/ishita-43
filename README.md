@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=ishita-43&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG">
+  <a href="https://github.com/ishita-43">
     <!-- Please provide path to your logo here -->
     <img src="AdobeStock_555904385_Preview.jpeg" alt="Logo" height="300">
   </a>
