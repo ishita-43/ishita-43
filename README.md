@@ -1,5 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=ishita-43&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
+<h1 align="center">
+  <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG">
+    <!-- Please provide path to your logo here -->
+    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+  </a>
+</h1>
+
 # 💫 About Me: <img align="right" width="200" height="400" src="Animation - 1722337359261.gif">
 🔭 I’m currently working on react-native<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with real world project <br>🌱 I’m currently learning Typescript, react-native<br>💬 Ask me about Frontend development, Ui <br>⚡ Fun fact :- Doing coding in part time
 
