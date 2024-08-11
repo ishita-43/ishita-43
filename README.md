@@ -21,7 +21,7 @@
 ishita-43/ishita-43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![ishita43's GitHub | Stats](https://stats.quine.sh/ishita43/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
+<img src="https://stats.quine.sh/ishita43/github?theme=dark">
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -29,18 +29,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-[![ishita43's GitHub | Languages Over Time](https://stats.quine.sh/ishita43/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
-
-[![ishita43's GitHub | Topics](https://stats.quine.sh/ishita43/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ishita43)
-
 # 📊 GitHub Stats:
-<div align="center">
-
+<img src="https://stats.quine.sh/ishita43/languages-over-time?theme=dark" width="440px" height="520px" align="left" style="fit-content">
+<img src="https://stats.quine.sh/ishita43/topics-over-time?theme=dark" width="400" height="500" align="right" style="fit-content"><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-43&theme=github_dark" alt="Ishita's GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-43&theme=github_dark" alt="Ishita's GitHub Stats" width="300" height="200"/>
 
 </div>
 
