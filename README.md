@@ -44,11 +44,13 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-
-## 🏆 GitHub Trophies
+<details>
+<summary>  🏆 GitHub Trophies </summary>
 ![](https://github-profile-trophy.vercel.app/?username=ishita-43&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</details>
 
-## GSSOC(24) Badges 🪶
+<details>
+  <summary>GSSOC(24) Badges 🪶</summary>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -60,6 +62,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
+</details>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
