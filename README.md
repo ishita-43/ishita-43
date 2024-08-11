@@ -59,13 +59,14 @@ You can click the Preview link to take a look at your changes.
 
 
 # 📊 GitHub Stats:
-<img src="https://stats.quine.sh/ishita43/languages-over-time?theme=dark" width="440px" height="520px" align="left" style="display: inline-block; margin: 0 auto; max-width: 300"/> <img src="https://stats.quine.sh/ishita43/topics-over-time?theme=dark" width="400" height="500" align="right" style="fit-content" style="display: inline-block; margin: 0 auto; max-width: 300"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" height="300" width="300"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=shadow_green&hide_border=false" width="400" height="400" style="display: inline-block; margin: 0 auto; max-width: 300px" align="right"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-43&theme=github_dark" alt="Ishita's GitHub Stats" width="300" height="200" style="display: inline-block; margin: 0 auto; max-width: 300px" align="left"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=ishita-43&limit=5&theme=dark&combine_all_yearly_contributions=true" height="400" width="400" style="display: inline-block; margin: 0 auto; max-width: 250px" height="300" align="right"/> 
-<img src="https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="400" height="400" style="display: inline-block; margin: 0 auto; max-width: 300px" align="left"/> 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: 0 auto;">
+    <img src="https://stats.quine.sh/ishita43/languages-over-time?theme=dark" width="440" height="520" style="max-width: 80%; height: 80%;" />
+    <img src="https://stats.quine.sh/ishita43/topics-over-time?theme=dark" width="400" height="500" style="max-width: 80%; height: 80%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="300" height="300" style="max-width: 80%; height: 80%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=shadow_green&hide_border=false" width="400" height="400" style="max-width: 80%; height: 80%;" />   
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-43&theme=github_dark" alt="Ishita's GitHub Stats" width="300" height="200" style="max-width: 80%; height: 80%;" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=ishita-43&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" height="400" style="max-width: 80%; height: 80%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="400" height="400" style="max-width: 80%; height: 80%;" />
+</div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
