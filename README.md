@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>GSSOC(24) Badges 🪶</summary>
 <div style='display:flex; align-items:center; gap: 10;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" style="display: inline-block; margin: 0 auto; max-width: 300px"/>
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
@@ -52,17 +52,20 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 
-# 📊 GitHub Stats:
-<img src="https://stats.quine.sh/ishita43/languages-over-time?theme=dark" width="440px" height="520px" align="left" style="wrap-content" margin-top="-20px"> <img src="https://stats.quine.sh/ishita43/topics-over-time?theme=dark" width="400" height="500" align="right" style="fit-content"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-43&theme=github_dark" alt="Ishita's GitHub Stats" width="300" height="200" align="left"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="400" height="400" align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=shadow_green&hide_border=false" width="350" height="400" align="right"><br>
-<img src="https://github-contributor-stats.vercel.app/api?username=ishita-43&limit=5&theme=dark&combine_all_yearly_contributions=true" height="400" width="400">
-
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ishita43) 
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+# 📊 GitHub Stats:
+<img src="https://stats.quine.sh/ishita43/languages-over-time?theme=dark" width="440px" height="520px" align="left" style="display: inline-block; margin: 0 auto; max-width: 300"/> <img src="https://stats.quine.sh/ishita43/topics-over-time?theme=dark" width="400" height="500" align="right" style="fit-content" style="display: inline-block; margin: 0 auto; max-width: 300"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" height="300" width="300"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-43&theme=shadow_green&hide_border=false" width="400" height="400" style="display: inline-block; margin: 0 auto; max-width: 300px" align="right"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-43&theme=github_dark" alt="Ishita's GitHub Stats" width="300" height="200" style="display: inline-block; margin: 0 auto; max-width: 300px" align="left"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=ishita-43&limit=5&theme=dark&combine_all_yearly_contributions=true" height="400" width="400" style="display: inline-block; margin: 0 auto; max-width: 250px" height="300" align="right"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="400" height="400" style="display: inline-block; margin: 0 auto; max-width: 300px" align="left"/> 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
