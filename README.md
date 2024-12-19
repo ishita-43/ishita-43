@@ -1,12 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=ishita-43&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
-<h1 align="center">
-  <a href="https://github.com/ishita-43">
-    <!-- Please provide path to your logo here -->
-    <img src="AdobeStock_555904385_Preview.jpeg" alt="Logo" height="300">
-  </a>
-</h1>
-
 # 💫 About Me:
 <div align="left">
 🔭 I’m currently working on react-native<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with real world project <br>🌱 I’m currently learning Typescript, react-native<br>💬 Ask me about Frontend development, Ui <br>⚡ Fun fact :- Doing coding in part time
@@ -29,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-## Badges:
 <details>
 <summary>  🏆 GitHub Trophies </summary>
   
