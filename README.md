@@ -43,13 +43,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 </details>
 
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ishita43) 
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 # 📊 GitHub Stats:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 800px; margin: 0 auto;">
@@ -61,4 +54,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-contributor-stats.vercel.app/api?username=ishita-43&limit=5&theme=dark&combine_all_yearly_contributions=true" width="230" height="230" style="max-width: 80%; height: 60%;" />
     <img src="https://github-readme-stats.vercel.app/api?username=ishita-43&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="230" height="250" style="max-width: 60%; height: 80%;" />
 </div>
+
+## 💰 Here you can help me 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ishita43) 
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
